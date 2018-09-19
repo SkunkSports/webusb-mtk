@@ -1,0 +1,14 @@
+# build output
+build/
+.idea/
+node_modules/
+.vscode/
+coverage/
+*.iml
+webpack-assets.json
+webpack-stats.json
+npm-debug.log
+.env
+.env.production
+webpack/dlls/manifests/vendor.json
+/.vscode/settings.json
