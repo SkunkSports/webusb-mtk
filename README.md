@@ -1,8 +1,10 @@
 # webusb-mtk
 
-WebUSB tool for GPS trackers with MTK chipset. Requires Chrome browser, version 61 and up.
+### WebUSB tool for GPS trackers with MTK chipset. Requires Chrome browser, version 61 and up.
 
 Live demo: https://webusb-mtk.firebaseapp.com
+
+Using on Windows may require a driver. `libusbK` installed via [Zadig](https://zadig.akeo.ie/) has worked in limited testing.
 
 #### References
 
